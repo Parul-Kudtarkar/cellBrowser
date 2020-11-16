@@ -76,7 +76,7 @@ var cellbrowser = function() {
     // color for missing value when coloring by expression value
     //var cNullColor = "CCCCCC";
     //const cNullColor = "DDDDDD";
-    const cNullColor = "95DFFF"; //= light blue
+    const cNullColor = "E0E0E0"; //= light blue
 
     const cDefGradPalette = "tol-sq-blue";  // default legend gradient palette for gene expression
     // this is a special palette, tol-sq with the first entry being a light blue, so 0 stands out a bit more
